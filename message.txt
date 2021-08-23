@@ -1,0 +1,18 @@
+Hello __name__,
+
+Thank you for registering for the __program-name__ for the __session__ season with __organization-name__ .
+
+Classes will be from __start-date__ to __end-date__. With our classes rapidly approaching, we would like to handout information regarding our classes. Below we have provided the Zoom link that we will be using throughout the program. It is cruial that students have access to this link as well will be using Zoom for our online lesson.
+
+Topic: __topic-name__
+
+Join Zoom Meeting: __zoom-link__
+
+Meeting ID: __meeting-id__
+
+Passcode __passcode__
+
+If you have any question feel free to contact us!
+
+Thank you
+__organization-name__
