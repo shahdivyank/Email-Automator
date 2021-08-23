@@ -8,4 +8,4 @@ A template email draft is saved inside of message.txt. Any values to be changed 
 
 An image of the spreadsheet used is provided below with the user data removed for user security and privacy.
 
-![Spreadsheet](images/"sample_data.png")
+![Spreadsheet](https://github.com/shahdivyank/Email-Automator/blob/main/images/sample_data.png)
