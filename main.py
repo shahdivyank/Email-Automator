@@ -4,7 +4,6 @@ import smtplib
 from email.message import EmailMessage
 
 text = open("message.txt", "r")
-
 subs = dict()
 email = ""
 
@@ -53,19 +52,13 @@ server.login(sender_email, password)
 print("Login Successful")
 
 scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets',"https://www.googleapis.com/auth/drive.file","https://www.googleapis.com/auth/drive"]
-
 creds = ServiceAccountCredentials.from_json_keyfile_name("creds.json", scope)
-
 client = gspread.authorize(creds)
-
 sheet = client.open("CRA Forms").sheet1
-
 data = sheet.get_all_records()
 
 msg = EmailMessage()
 msg["From"] = sender_email
-
-var = []
 
 i = 2
 for row in data:
