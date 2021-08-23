@@ -67,7 +67,7 @@ msg["From"] = sender_email
 
 var = []
 
-i = 0
+i = 2
 for row in data:
     if row["Email Sent?"] == "":
         for key in subs:
