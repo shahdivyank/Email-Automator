@@ -73,9 +73,8 @@ for row in data:
         for key in subs:
             email = email.replace(subs[key], row[key])
 
-        msg["Subject"] = program + "Confirmation"
+        msg["Subject"] = row["__program__"] + "Confirmation"
         msg["To"] = row["__email__"]
-
         msg.set_content(email)
         print(email)
         server.send_message(msg)
