@@ -74,5 +74,5 @@ for row in data:
         sheet.update_cell(i, 11, "Sent")
         del msg["Subject"]
         del msg["To"]
-        i += 1
+    i += 1
 server.quit()
