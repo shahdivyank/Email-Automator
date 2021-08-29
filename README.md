@@ -8,8 +8,8 @@ A template email draft is saved inside of message.txt. Any values to be changed 
 
 An image of the spreadsheet used is provided below with the user data removed for user security and privacy.
 
-![Sample Spreadsheet Data](https://github.com/shahdivyank/Email-Automator/blob/main/images/sample_data.png)
+![Sample Spreadsheet Data](https://github.com/shahdivyank/Email_Automator/blob/main/images/sample_data.png)
 
 An image of the resulting email is provided below with all the custom information. Sample Data has been used to protect user security and privacy.
 
-![Sample Emails](https://github.com/shahdivyank/Email-Automator/blob/main/images/sample_email.png)
+![Sample Emails](https://github.com/shahdivyank/Email_Automator/blob/main/images/sample_email.png)
