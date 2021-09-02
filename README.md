@@ -13,3 +13,22 @@ An image of the spreadsheet used is provided below with the user data removed fo
 An image of the resulting email is provided below with all the custom information. Sample Data has been used to protect user security and privacy.
 
 ![Sample Emails](https://github.com/shahdivyank/Email_Automator/blob/main/images/sample_email.png)
+
+<p align= "center">Feel free to connect with me on any of the following platforms to talk about question, possible collaborations, opportunities, events, tech, or for fun!! Can't wait to meet you!</p>
+<p align = "center">
+  <a href="https://www.linkedin.com/in/divyank-shah/" target = "_blank">
+    <img src="https://evergreenengineering.com/wp-content/uploads/2019/06/LinkedIn_logo_initials.png" width = 60px>
+  </a>
+
+  <a href="https://instagram.com/divyank.shah" target = "_blank">
+    <img src="https://i.dlpng.com/static/png/6382269_preview.png" width = 90px>
+  </a>
+
+  <a href="https://github.com/shahdivyank" target = "_blank">
+    <img src="https://www.tethysplatform.org/images/github-icon.png" width = 65px>
+  </a>
+
+  <a href="mailto:divyank.shah.2016@gmail.com" target = "_blank">
+    <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width = 100px>
+  </a>
+</p>
